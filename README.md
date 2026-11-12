@@ -19,9 +19,9 @@ semantic similarity.
 - Sentence Transformers
 
 ## Team Members
-
-- K Tharith Reddy
 - K Pranay Krishna
+- K Tharith Reddy
+
 
 ## Features
 
