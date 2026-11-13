@@ -29,7 +29,6 @@ semantic similarity.
 - Recruiter authentication
 - Internship management
 - Explainable internship matching
-- Skill-gap analysis
 - Semantic search
 - Application management
 - Interview management
